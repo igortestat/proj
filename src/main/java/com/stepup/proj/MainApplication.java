@@ -6,7 +6,8 @@ public class MainApplication {
         System.out.println("111");
     }
     public static void doSomething(){
-        System.out.println("111");
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
     }
     }
-}
